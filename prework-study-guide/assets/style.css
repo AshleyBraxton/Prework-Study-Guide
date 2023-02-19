@@ -12,6 +12,7 @@ footer {
 h1,
 h2 {
     text-align: center;
+    font-family: Garamond;
 }
 img {
     display: block;
@@ -23,6 +24,7 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
+    color: #142caf;
 }
 p {
     text-align: center;
@@ -31,6 +33,16 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid #f13CB9;
-    box-shadow: 5px 10px #840F60;
+    border: 5px solid #B6ECFE;
+    box-shadow: 5px 10px #2F6273;
+    background-color: #B1B6CF ;
+  }
+  Body {
+    background-color: #657CFA  ;
+  }
+  H1 {
+    font-family: Papyrus;
+  }
+  footer {
+    font-family: papyrus ;
   }
