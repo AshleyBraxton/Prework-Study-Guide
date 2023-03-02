@@ -39,9 +39,12 @@ p {
   }
   Body {
     background-color: #657CFA  ;
+    background: rgb(13,14,40);
+    background: linear-gradient(0deg, rgba(13,14,40,1) 0%, rgba(51,60,227,1) 51%, rgba(5,32,32,1) 100%);
   }
   H1 {
     font-family: Papyrus;
+    text-shadow: 1px 1px 1px black, 2px 2px 1px #B6ECFE
   }
   footer {
     font-family: papyrus ;
